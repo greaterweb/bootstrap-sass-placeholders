@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-sass-placeholders",
+  "version": "0.1.0",
+  "description": "Bootstrap Sass alternative which replaces CSS selectors with placeholder selectors. Ideal for situations in which Bootstrap is extended for custom usage.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greaterweb/bootstrap-sass-placeholders.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "css",
+    "placeholders"
+  ],
+  "contributors": [
+    "Ron Edgecomb <ron@greaterwebdesign.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greaterweb/bootstrap-sass-placeholders/issues"
+  },
+  "homepage": "https://github.com/greaterweb/bootstrap-sass-placeholders",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.1",
+    "fs-extra": "^0.12.0",
+    "glob": "^4.0.6"
+  }
+}
